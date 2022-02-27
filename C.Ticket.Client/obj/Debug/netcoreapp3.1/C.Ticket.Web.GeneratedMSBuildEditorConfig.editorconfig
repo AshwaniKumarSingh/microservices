@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = C.Ticket.Web
+build_property.ProjectDir = c:\Project\Microservices Lab\Lab2\microservices\ConcertTicket\C.Ticket.Client\

@@ -1,0 +1,75 @@
+{
+  "FilePath": "c:\\Project\\Microservices Lab\\Lab2\\microservices\\ConcertTicket\\C.Ticket.Client\\C.Ticket.Web.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "3.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 800
+  },
+  "RootNamespace": "C.Ticket.Web",
+  "Documents": [
+    {
+      "FilePath": "c:\\Project\\Microservices Lab\\Lab2\\microservices\\ConcertTicket\\C.Ticket.Client\\Views\\ShoppingBasket\\Index.cshtml",
+      "TargetPath": "Views\\ShoppingBasket\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Project\\Microservices Lab\\Lab2\\microservices\\ConcertTicket\\C.Ticket.Client\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Project\\Microservices Lab\\Lab2\\microservices\\ConcertTicket\\C.Ticket.Client\\Views\\ShoppingBasket\\EditorTemplates\\BasketLineViewModel.cshtml",
+      "TargetPath": "Views\\ShoppingBasket\\EditorTemplates\\BasketLineViewModel.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Project\\Microservices Lab\\Lab2\\microservices\\ConcertTicket\\C.Ticket.Client\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Project\\Microservices Lab\\Lab2\\microservices\\ConcertTicket\\C.Ticket.Client\\Views\\EventCatalog\\DisplayTemplates\\Event.cshtml",
+      "TargetPath": "Views\\EventCatalog\\DisplayTemplates\\Event.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Project\\Microservices Lab\\Lab2\\microservices\\ConcertTicket\\C.Ticket.Client\\Views\\EventCatalog\\Index.cshtml",
+      "TargetPath": "Views\\EventCatalog\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Project\\Microservices Lab\\Lab2\\microservices\\ConcertTicket\\C.Ticket.Client\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Project\\Microservices Lab\\Lab2\\microservices\\ConcertTicket\\C.Ticket.Client\\Views\\Shared\\_ShoppingCartWidget.cshtml",
+      "TargetPath": "Views\\Shared\\_ShoppingCartWidget.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Project\\Microservices Lab\\Lab2\\microservices\\ConcertTicket\\C.Ticket.Client\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Project\\Microservices Lab\\Lab2\\microservices\\ConcertTicket\\C.Ticket.Client\\Views\\EventCatalog\\Detail.cshtml",
+      "TargetPath": "Views\\EventCatalog\\Detail.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Project\\Microservices Lab\\Lab2\\microservices\\ConcertTicket\\C.Ticket.Client\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}
